@@ -1653,7 +1653,7 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 
 ## [Hail](https://github.com/hail-hq/hail)
-Phone, SMS & email for AI agents
+Give an AI agent phone, SMS & email
 
 <details>
 
@@ -1663,7 +1663,7 @@ Phone, SMS & email for AI agents
 Communication, Agent tooling, Open-source
 
 ### Description
-Phone, SMS & email for AI agents. One remote MCP server exposing call, email, and event tools, inbound and outbound; also usable via CLI, Python SDK, and OpenAPI. Self-hostable.
+Give an AI agent phone, SMS & email — one remote MCP server exposing call, email, and event tools, inbound and outbound, so an agent can actually reach people. Also usable via CLI, Python SDK, and OpenAPI. Self-hostable.
 
 ### Links
 - [GitHub](https://github.com/hail-hq/hail)
