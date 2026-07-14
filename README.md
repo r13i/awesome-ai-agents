@@ -1653,7 +1653,7 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 
 ## [Hail](https://github.com/hail-hq/hail)
-Phone, SMS & email for AI agents, as tool calls
+Phone, SMS & email for AI agents
 
 <details>
 
@@ -1663,9 +1663,7 @@ Phone, SMS & email for AI agents, as tool calls
 Communication, Agent tooling, Open-source
 
 ### Description
-- Hail is a self-hostable (AGPLv3) communication platform for AI agents — give an agent a real phone number, SMS line, and inbox. It places and receives phone calls, sends SMS, and sends/reads email as plain tool calls.
-- Available as a remote MCP server (mcp.hail.so), a CLI, a Python SDK, and an OpenAPI REST API. Point any MCP client at the endpoint, authorize once, and the tools are live.
-- Voice runs on Twilio with a realtime LLM; email on AWS SES.
+Phone, SMS & email for AI agents. One remote MCP server exposing call, email, and event tools, inbound and outbound; also usable via CLI, Python SDK, and OpenAPI. Self-hostable.
 
 ### Links
 - [GitHub](https://github.com/hail-hq/hail)
