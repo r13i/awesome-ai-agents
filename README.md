@@ -1652,6 +1652,29 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Hail](https://github.com/hail-hq/hail)
+Real phone calls and email for AI agents, as tool calls
+
+<details>
+
+![Hail](https://avatars.githubusercontent.com/u/277142400?v=4)
+
+### Category
+Communication, Agent tooling, Open-source
+
+### Description
+- Hail is a self-hostable (AGPLv3) communication platform for AI agents. An agent places a phone call, sends an email, and reads back structured events as plain tool calls.
+- Available as a remote MCP server (mcp.hail.so), a CLI, a Python SDK, and an OpenAPI REST API. Point any MCP client at the endpoint, authorize once, and the tools are live.
+- Voice runs on Twilio with a realtime LLM; email on AWS SES.
+
+### Links
+- [GitHub](https://github.com/hail-hq/hail)
+- [Website](https://hail.so)
+- [MCP endpoint](https://mcp.hail.so)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
